@@ -5,11 +5,7 @@ import org.openqa.selenium.{By, WebDriver}
 
 import scala.annotation.tailrec
 
-case class RulingCaseData(reference: String, endDate: String, page: Int)
-
-case class RulingCaseWithDate(reference: String, endDate: String)
-
-object RulingFrontendProd extends App {
+object RulingFrontendStaging extends App {
 
   // set path for chromedriver
   System.setProperty("webdriver.chrome.driver", "/usr/local/Caskroom/chromedriver/124.0.6367.201/chromedriver-mac-x64/chromedriver")
