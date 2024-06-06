@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="root [file:/Users/michaelyau/self_projects/selenium/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/../../target/scala-2.13/classes" />
+    <output-test url="file://$MODULE_DIR$/../../target/scala-2.13/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/scala" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: scala-sdk-2.13.12" level="project" />
+    <orderEntry type="library" name="sbt: com.beust:jcommander:1.82:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.auto.service:auto-service-annotations:1.0.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.auto.service:auto-service:1.0.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.auto:auto-common:1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.code.findbugs:jsr305:3.0.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.errorprone:error_prone_annotations:2.11.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.guava:failureaccess:1.0.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.guava:guava:31.1-jre:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.j2objc:j2objc-annotations:1.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.sun.activation:jakarta.activation:1.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.netty:netty-reactive-streams:2.0.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.failsafe:failsafe:3.2.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-buffer:4.1.77.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-codec-http:4.1.77.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-codec-socks:4.1.60.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-codec:4.1.77.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-common:4.1.77.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-handler-proxy:4.1.60.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-handler:4.1.77.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-resolver:4.1.77.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-transport-classes-epoll:4.1.77.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-transport-classes-kqueue:4.1.77.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-transport-native-epoll:4.1.77.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-transport-native-kqueue:4.1.77.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-transport-native-unix-common:4.1.77.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-transport:4.1.77.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.opentelemetry:opentelemetry-api:1.14.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.opentelemetry:opentelemetry-context:1.14.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.opentelemetry:opentelemetry-exporter-logging:1.14.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.opentelemetry:opentelemetry-sdk-common:1.14.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.opentelemetry:opentelemetry-sdk-extension-autoconfigure-spi:1.14.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.opentelemetry:opentelemetry-sdk-extension-autoconfigure:1.14.0-alpha:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.opentelemetry:opentelemetry-sdk-logs:1.14.0-alpha:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.opentelemetry:opentelemetry-sdk-metrics:1.14.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.opentelemetry:opentelemetry-sdk-trace:1.14.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.opentelemetry:opentelemetry-sdk:1.14.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.opentelemetry:opentelemetry-semconv:1.14.0-alpha:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.ous:jtoml:2.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.bytebuddy:byte-buddy:1.12.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.commons:commons-exec:1.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.asynchttpclient:async-http-client-netty-utils:2.12.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.asynchttpclient:async-http-client:2.12.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.checkerframework:checker-qual:3.12.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.reactivestreams:reactive-streams:1.0.3:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scala-lang.modules:scala-xml_2.13:2.1.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scala-lang:scala-reflect:2.13.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalactic:scalactic_2.13:3.2.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-compatible:3.2.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-core_2.13:3.2.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-diagrams_2.13:3.2.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-featurespec_2.13:3.2.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-flatspec_2.13:3.2.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-freespec_2.13:3.2.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-funspec_2.13:3.2.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-funsuite_2.13:3.2.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-matchers-core_2.13:3.2.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-mustmatchers_2.13:3.2.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-propspec_2.13:3.2.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-refspec_2.13:3.2.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-shouldmatchers_2.13:3.2.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-wordspec_2.13:3.2.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest_2.13:3.2.12:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.seleniumhq.selenium:selenium-api:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.seleniumhq.selenium:selenium-chrome-driver:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.seleniumhq.selenium:selenium-chromium-driver:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.seleniumhq.selenium:selenium-devtools-v100:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.seleniumhq.selenium:selenium-devtools-v101:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.seleniumhq.selenium:selenium-devtools-v102:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.seleniumhq.selenium:selenium-devtools-v85:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.seleniumhq.selenium:selenium-edge-driver:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.seleniumhq.selenium:selenium-firefox-driver:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.seleniumhq.selenium:selenium-http:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.seleniumhq.selenium:selenium-ie-driver:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.seleniumhq.selenium:selenium-java:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.seleniumhq.selenium:selenium-json:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.seleniumhq.selenium:selenium-opera-driver:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.seleniumhq.selenium:selenium-remote-driver:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.seleniumhq.selenium:selenium-safari-driver:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.seleniumhq.selenium:selenium-support:4.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:1.7.30:jar" level="project" />
+  </component>
+</module>
